@@ -1,0 +1,15 @@
+{
+  "name": "module_system_basic",
+  "version": "1.0.0",
+  "description": "practice モジュールシステムの基本",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kazuma Naka",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.21.1",
+    "typescript": "^5.6.2"
+  }
+}
