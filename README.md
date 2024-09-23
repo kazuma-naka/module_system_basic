@@ -19,8 +19,8 @@ This is a simple TypeScript application that uses the `date-fns` library to disp
 ### Step 1: Clone or download the repository.
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone <https://github.com/kazuma-naka/module_system_basic.git>
+cd <module_system_basic>
 ```
 
 ### Step 2: Compile TypeScript to JavaScript.
